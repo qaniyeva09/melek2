@@ -1,6 +1,6 @@
 // script.js
 document.addEventListener('DOMContentLoaded', function() {
-    const words = ['apple', 'banana', 'orange', 'grape', 'kiwi','salam'];
+    const words = ['salam'];
     const scrambleDiv = document.getElementById('scramble');
     const guessInput = document.getElementById('guessInput');
     const checkButton = document.getElementById('checkButton');
